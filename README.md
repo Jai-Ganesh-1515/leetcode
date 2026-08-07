@@ -15,6 +15,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Jai-Ganesh-1515/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Jai-Ganesh-1515/leetcode/tree/master/0050-powx-n) |
+| [0507-perfect-number](https://github.com/Jai-Ganesh-1515/leetcode/tree/master/0507-perfect-number) |
 ## Binary Search
 |  |
 | ------- |
